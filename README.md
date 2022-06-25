@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋 My name is Yahya Ansari
+=============================
 
-<!--
-**novus-afk/novus-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automobile Engineer | Programming Enthusiast
+--------------------------------------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Mumbai
+* 🖥️  See my portfolio at [My Portfolio](http://novus-afk.github.io/yahya)
+* ✉️  You can contact me at [yahyaansari62@gmail.com](mailto:yahyaansari62@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/novus-afk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yahya-ansari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
