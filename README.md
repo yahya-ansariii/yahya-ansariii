@@ -29,7 +29,7 @@
 </br>
 <a href="https://www.github.com/novus-afk" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='novus-afk' width="40" height="40" /></a>
 <a href="https://linkedin.com/in/yahya-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="yahya-ansari" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/novus-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="novus-afk" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnLXmQ8DoVFCbFWuUb5VVeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="novus-afk" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/novus_afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="novus_afk" height="40" width="40" /></a>
 </p>
 </br>
