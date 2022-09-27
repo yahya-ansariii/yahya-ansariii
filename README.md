@@ -7,8 +7,6 @@
 
 <h2 align="center">Data Science Enthusiast | Automobile Engineer</h2>
 
----
-
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=novus-afk&label=Profile%20views&color=0e75b6&style=flat" alt="novus-afk" /> </p>
 
