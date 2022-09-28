@@ -1,8 +1,6 @@
 
 ![MasterHead](image/coding.gif)
 
-
-
 <h1 align="center">Hi 👋, My Name is Yahya Ansari</h1>
 
 <h2 align="center">Data Science Enthusiast | Automobile Engineer</h2>
@@ -12,7 +10,11 @@
 
 </br>
 <p align="center">
-🧠 I’m currently learning <b>Mathematics For Data Science</b></p>
+🌏 I’m based in <b>Mumbai, India</b>
+</p>
+<p align="center">
+🧠 I’m currently learning <b>Mathematics For Data Science</b>
+</p>
 <p align="center">
 💬 Ask me about <b>python, data in the automotive industry</b>
 </p>
@@ -47,27 +49,21 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
- 
-
-
 </br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=novus-afk&show_icons=true&locale=en&layout=compact" alt="novus-afk" /></p>
-
 </br>
 
 ---
 
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novus-afk&show_icons=true&locale=en" alt="novus-afk" /></p>
-
 </br>
 
 ---
 
 </br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novus-afk&" alt="novus-afk" /></p>
-
 </br>
 
 ---
