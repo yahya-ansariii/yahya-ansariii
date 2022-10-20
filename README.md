@@ -13,7 +13,7 @@
 🌏 I’m based in <b>Mumbai, India</b>
 </p>
 <p align="center">
-🧠 I’m currently learning <b>Machine Learning</b>
+🧠 I’m currently learning <b>Machine Learning (ML) Algorithms</b>
 </p>
 <p align="center">
 💬 Ask me about <b>python, data in the automotive industry</b>
