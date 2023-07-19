@@ -6,7 +6,7 @@
 <h2 align="center">Data Science Enthusiast | Automobile Engineer</h2>
 
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=novus-afk&label=Profile%20views&color=0e75b6&style=flat" alt="novus-afk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yahya-ansariii&label=Profile%20views&color=0e75b6&style=flat" alt="yahya-ansariii" /> </p>
 
 </br>
 <p align="center">
@@ -29,9 +29,9 @@
 
 <p align="center">
 </br>
-<a href="https://www.github.com/novus-afk" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='novus-afk' width="40" height="40" /></a>
+<a href="https://www.github.com/yahya-ansariii" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='yahya-ansariii' width="40" height="40" /></a>
 <a href="https://linkedin.com/in/yahya-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="yahya-ansari" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCnLXmQ8DoVFCbFWuUb5VVeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="novus-afk" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnLXmQ8DoVFCbFWuUb5VVeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yahya-ansariii" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/novus_afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="novus_afk" height="40" width="40" /></a>
 <a href="https://medium.com/@novus_afk" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" /></a>
 
@@ -54,19 +54,19 @@
 </p>
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=novus-afk&show_icons=true&locale=en&layout=compact" alt="novus-afk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-ansariii&show_icons=true&locale=en&layout=compact" alt="yahya-ansariii" /></p>
 </br>
 
 ---
 
 </br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novus-afk&show_icons=true&locale=en" alt="novus-afk" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahya-ansariii&show_icons=true&locale=en" alt="yahya-ansariii" /></p>
 </br>
 
 ---
 
 </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novus-afk&" alt="novus-afk" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-ansariii&" alt="yahya-ansariii" /></p>
 </br>
 
 ---
