@@ -2,20 +2,21 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, My Name is Yahya Ansari</h1>
 
-<h2 align="center">Data Science Enthusiast | Machine Learning | Immediate Joiner | Seeking Opportunities in AI/ML</h2>
+<h2 align="center">Data Science | Data Analytics | Machine Learning</h2>
 
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yahya-ansariii&label=Profile%20views&color=0e75b6&style=flat" alt="yahya-ansariii" /> </p>
 
 </br>
 <p align="center">
-🌏 I’m based in <b>Mumbai, India</b>
+🌏 I’m from <b>Mumbai, India</b>
 </p>
 <p align="center">
-🧠 I’m currently working on <b>Machine Learning projects</b>
+🏢 I’m currently working as an associate analyst at <b>Novartis</b>
+  in <b>Hyderabad, India</b>
 </p>
 <p align="center">
-💬 Ask me about <b>python, data in the automotive industry</b>
+💬 Ask me about <b>Python, Data Science/Analytics, Machine Learning</b>
 </p>
 <p align="center">
 ✉️ You can contact me at <a href="mailto:yahyaansari62@gmail.com" target = "_blank"><b>yahyaansari62@gmail.com</b></a>
